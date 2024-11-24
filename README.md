@@ -28,3 +28,6 @@ git status
 git add .
 git commit -m "comentario"
 git push origin main
+
+## Aclaraciones extra
+1. La primera parte del codigo (extraccion de datos) puede demorar mucho tiempo. En la carpeta "documents" se almacena un archivo "geih_2018_bogota.csv" con los datos extraidos para comenzar directamente del siguiente punto
